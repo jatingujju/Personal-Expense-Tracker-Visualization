@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+
+# Optional extras
+streamlit>=1.30   # interactive dashboard (app_streamlit.py)
+pytest>=7.0       # run the tests in tests/

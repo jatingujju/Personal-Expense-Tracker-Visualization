@@ -1,0 +1,231 @@
+date,category,amount,payment_method,description
+2026-06-01,Rent,12000.0,Net Banking,Monthly rent
+2026-06-01,Entertainment,512.37,UPI,Gaming
+2026-06-02,Food & Dining,204.61,Net Banking,Swiggy order
+2026-06-02,Transport,250.37,UPI,Petrol
+2026-06-03,Entertainment,471.63,Credit Card,Movie ticket
+2026-06-05,Bills & Utilities,1770.7,UPI,Electricity bill
+2026-06-05,Food & Dining,77.08,UPI,Zomato order
+2026-06-05,Shopping,2428.52,UPI,Shoes
+2026-06-06,Groceries,203.94,UPI,Supermarket
+2026-06-07,Food & Dining,384.58,Debit Card,Dinner out
+2026-06-07,Food & Dining,172.45,Credit Card,Zomato order
+2026-06-07,Groceries,105.89,Credit Card,Vegetables
+2026-06-08,Food & Dining,281.81,UPI,Dinner out
+2026-06-08,Transport,151.91,Cash,Auto ride
+2026-06-09,Transport,105.11,UPI,Metro card
+2026-06-09,Groceries,426.82,Debit Card,Supermarket
+2026-06-10,Bills & Utilities,699.0,Debit Card,Broadband bill
+2026-06-13,Transport,239.49,Credit Card,Petrol
+2026-06-14,Groceries,172.04,Credit Card,Supermarket
+2026-06-15,Food & Dining,119.4,Credit Card,Coffee
+2026-06-16,Transport,121.31,UPI,Petrol
+2026-06-18,Bills & Utilities,578.31,Credit Card,Gas cylinder
+2026-06-18,Food & Dining,97.59,Debit Card,Coffee
+2026-06-18,Food & Dining,138.92,UPI,Swiggy order
+2026-06-20,Transport,201.96,UPI,Petrol
+2026-06-20,Food & Dining,76.23,UPI,Lunch
+2026-06-20,Groceries,182.72,Cash,Supermarket
+2026-06-20,Groceries,840.1,Cash,Supermarket
+2026-06-21,Bills & Utilities,415.27,Credit Card,Water bill
+2026-06-23,Education,900.42,UPI,Stationery
+2026-06-25,Groceries,761.03,Debit Card,Supermarket
+2026-06-27,Transport,98.75,Credit Card,Cab ride
+2026-06-28,Education,422.3,UPI,Exam fee
+2026-06-29,Entertainment,581.12,UPI,Movie ticket
+2026-07-01,Rent,12000.0,Net Banking,Monthly rent
+2026-07-01,Education,330.45,UPI,Stationery
+2026-07-02,Health,1082.79,Cash,Doctor visit
+2026-07-02,Shopping,1755.65,UPI,Online order
+2026-07-02,Groceries,697.43,UPI,Vegetables
+2026-07-05,Bills & Utilities,1631.11,UPI,Electricity bill
+2026-07-07,Food & Dining,363.19,Net Banking,Swiggy order
+2026-07-07,Food & Dining,116.12,UPI,Lunch
+2026-07-09,Food & Dining,330.76,Cash,Dinner out
+2026-07-10,Bills & Utilities,699.0,Debit Card,Broadband bill
+2026-07-11,Groceries,842.05,UPI,Monthly staples
+2026-07-11,Food & Dining,318.52,Net Banking,Dinner out
+2026-07-11,Food & Dining,420.68,UPI,Coffee
+2026-07-12,Groceries,435.29,Net Banking,Milk and bread
+2026-07-13,Shopping,339.24,UPI,Online order
+2026-07-13,Shopping,811.81,Cash,Gadget accessory
+2026-07-13,Transport,262.97,Cash,Metro card
+2026-07-14,Transport,262.9,UPI,Petrol
+2026-07-17,Groceries,575.55,UPI,Vegetables
+2026-07-17,Food & Dining,116.11,Net Banking,Swiggy order
+2026-07-19,Groceries,116.92,UPI,Vegetables
+2026-07-21,Food & Dining,256.77,Debit Card,Lunch
+2026-07-21,Entertainment,106.95,UPI,Concert
+2026-07-23,Groceries,398.89,Cash,Vegetables
+2026-07-25,Education,238.76,Debit Card,Stationery
+2026-07-26,Transport,163.98,Debit Card,Bus pass
+2026-07-26,Food & Dining,210.18,Cash,Dinner out
+2026-07-26,Groceries,482.3,UPI,Supermarket
+2026-07-26,Food & Dining,203.33,UPI,Zomato order
+2026-07-26,Food & Dining,327.44,UPI,Dinner out
+2026-07-27,Transport,257.6,Credit Card,Metro card
+2026-07-27,Transport,197.22,UPI,Bus pass
+2026-07-27,Shopping,745.29,Credit Card,Shoes
+2026-07-29,Shopping,485.89,Net Banking,Gadget accessory
+2026-07-31,Shopping,2381.26,UPI,Shoes
+2026-07-31,Groceries,592.93,UPI,Milk and bread
+2026-07-31,Transport,180.28,UPI,Cab ride
+2026-08-01,Rent,12000.0,Net Banking,Monthly rent
+2026-08-01,Education,267.63,UPI,Exam fee
+2026-08-01,Groceries,626.29,UPI,Monthly staples
+2026-08-01,Transport,113.42,Debit Card,Cab ride
+2026-08-02,Food & Dining,121.47,UPI,Lunch
+2026-08-02,Food & Dining,209.49,Credit Card,Swiggy order
+2026-08-03,Food & Dining,444.79,Credit Card,Swiggy order
+2026-08-03,Groceries,780.43,Cash,Monthly staples
+2026-08-03,Groceries,570.61,Credit Card,Milk and bread
+2026-08-04,Food & Dining,232.5,UPI,Lunch
+2026-08-04,Education,1193.81,UPI,Books
+2026-08-05,Bills & Utilities,1679.2,UPI,Electricity bill
+2026-08-06,Bills & Utilities,516.13,Credit Card,Gas cylinder
+2026-08-08,Food & Dining,115.78,Credit Card,Swiggy order
+2026-08-09,Groceries,141.33,Cash,Vegetables
+2026-08-09,Entertainment,227.9,Debit Card,Movie ticket
+2026-08-10,Bills & Utilities,699.0,Debit Card,Broadband bill
+2026-08-10,Groceries,261.43,UPI,Vegetables
+2026-08-10,Food & Dining,350.62,Cash,Lunch
+2026-08-10,Groceries,687.7,UPI,Monthly staples
+2026-08-10,Food & Dining,336.86,Net Banking,Zomato order
+2026-08-12,Health,880.54,UPI,Gym fee
+2026-08-15,Groceries,856.82,UPI,Supermarket
+2026-08-15,Transport,201.79,Net Banking,Petrol
+2026-08-15,Groceries,506.68,UPI,Monthly staples
+2026-08-15,Groceries,207.28,UPI,Supermarket
+2026-08-16,Transport,197.7,UPI,Auto ride
+2026-08-18,Groceries,434.72,UPI,Supermarket
+2026-08-20,Transport,201.43,Credit Card,Cab ride
+2026-08-21,Transport,120.98,Cash,Metro card
+2026-08-21,Shopping,2250.09,Net Banking,Gadget accessory
+2026-08-22,Entertainment,386.37,UPI,Gaming
+2026-08-22,Groceries,773.59,UPI,Vegetables
+2026-08-23,Food & Dining,349.65,UPI,Dinner out
+2026-08-24,Groceries,580.67,UPI,Milk and bread
+2026-08-24,Bills & Utilities,697.51,Credit Card,Water bill
+2026-08-26,Transport,23.0,UPI,Cab ride
+2026-08-26,Groceries,232.73,Debit Card,Milk and bread
+2026-08-27,Food & Dining,213.1,UPI,Swiggy order
+2026-08-27,Food & Dining,243.04,UPI,Zomato order
+2026-08-27,Groceries,825.68,UPI,Milk and bread
+2026-08-27,Food & Dining,251.18,Cash,Dinner out
+2026-08-28,Food & Dining,389.0,Cash,Coffee
+2026-08-29,Food & Dining,270.42,UPI,Zomato order
+2026-08-29,Entertainment,379.19,Credit Card,Gaming
+2026-08-30,Food & Dining,267.25,UPI,Swiggy order
+2026-08-30,Food & Dining,417.76,Cash,Dinner out
+2026-08-30,Food & Dining,134.73,UPI,Lunch
+2026-08-30,Education,727.49,UPI,Online course
+2026-09-01,Rent,12000.0,Net Banking,Monthly rent
+2026-09-02,Food & Dining,356.96,Debit Card,Coffee
+2026-09-02,Shopping,2419.06,Credit Card,Online order
+2026-09-02,Groceries,685.93,UPI,Monthly staples
+2026-09-03,Bills & Utilities,691.52,UPI,Gas cylinder
+2026-09-04,Groceries,132.76,Credit Card,Milk and bread
+2026-09-05,Bills & Utilities,1289.7,UPI,Electricity bill
+2026-09-05,Shopping,486.6,Cash,Shoes
+2026-09-05,Education,1251.62,UPI,Stationery
+2026-09-05,Food & Dining,78.99,UPI,Swiggy order
+2026-09-06,Food & Dining,302.54,Debit Card,Zomato order
+2026-09-06,Groceries,511.7,Credit Card,Milk and bread
+2026-09-06,Food & Dining,409.3,Credit Card,Lunch
+2026-09-06,Food & Dining,392.58,UPI,Zomato order
+2026-09-06,Food & Dining,290.22,UPI,Swiggy order
+2026-09-08,Groceries,373.54,Credit Card,Supermarket
+2026-09-09,Food & Dining,113.36,Cash,Swiggy order
+2026-09-10,Bills & Utilities,699.0,Debit Card,Broadband bill
+2026-09-10,Education,795.68,UPI,Online course
+2026-09-10,Groceries,261.58,UPI,Supermarket
+2026-09-10,Food & Dining,307.47,UPI,Coffee
+2026-09-11,Health,358.61,UPI,Doctor visit
+2026-09-11,Health,682.5,Credit Card,Pharmacy
+2026-09-11,Transport,103.83,UPI,Petrol
+2026-09-12,Health,411.57,Cash,Doctor visit
+2026-09-13,Bills & Utilities,521.03,Debit Card,Gas cylinder
+2026-09-13,Health,966.35,UPI,Pharmacy
+2026-09-15,Food & Dining,73.98,Net Banking,Coffee
+2026-09-15,Groceries,132.86,UPI,Milk and bread
+2026-09-16,Food & Dining,79.87,UPI,Lunch
+2026-09-17,Transport,77.97,UPI,Petrol
+2026-09-18,Groceries,790.21,UPI,Supermarket
+2026-09-19,Food & Dining,364.43,Debit Card,Coffee
+2026-09-19,Food & Dining,154.57,UPI,Dinner out
+2026-09-20,Food & Dining,422.85,UPI,Coffee
+2026-09-21,Groceries,210.56,Debit Card,Supermarket
+2026-09-26,Transport,185.25,Debit Card,Petrol
+2026-09-27,Shopping,2182.08,UPI,Clothes
+2026-09-27,Education,736.24,Cash,Stationery
+2026-09-29,Shopping,1621.61,UPI,Gadget accessory
+2026-09-30,Groceries,123.87,UPI,Supermarket
+2026-10-01,Rent,12000.0,Net Banking,Monthly rent
+2026-10-02,Health,753.21,UPI,Pharmacy
+2026-10-02,Groceries,654.48,UPI,Monthly staples
+2026-10-02,Bills & Utilities,152.2,UPI,Water bill
+2026-10-03,Health,1068.42,Cash,Pharmacy
+2026-10-03,Food & Dining,79.7,Cash,Zomato order
+2026-10-04,Entertainment,91.26,Cash,Movie ticket
+2026-10-05,Bills & Utilities,1673.89,UPI,Electricity bill
+2026-10-06,Food & Dining,324.27,Credit Card,Dinner out
+2026-10-07,Food & Dining,64.86,Credit Card,Dinner out
+2026-10-07,Food & Dining,96.69,Debit Card,Coffee
+2026-10-07,Food & Dining,326.21,UPI,Dinner out
+2026-10-10,Bills & Utilities,699.0,Debit Card,Broadband bill
+2026-10-10,Food & Dining,346.06,Debit Card,Swiggy order
+2026-10-10,Food & Dining,261.64,Credit Card,Zomato order
+2026-10-11,Health,1052.13,Credit Card,Gym fee
+2026-10-11,Groceries,263.52,Credit Card,Supermarket
+2026-10-12,Health,534.09,UPI,Pharmacy
+2026-10-12,Transport,182.68,UPI,Auto ride
+2026-10-13,Food & Dining,213.7,UPI,Zomato order
+2026-10-13,Groceries,647.65,UPI,Vegetables
+2026-10-16,Groceries,248.61,Cash,Monthly staples
+2026-10-16,Food & Dining,161.18,UPI,Lunch
+2026-10-17,Food & Dining,174.96,Credit Card,Coffee
+2026-10-17,Health,1091.81,Net Banking,Gym fee
+2026-10-17,Bills & Utilities,189.5,UPI,Gas cylinder
+2026-10-18,Groceries,776.64,Cash,Supermarket
+2026-10-22,Food & Dining,204.79,UPI,Coffee
+2026-10-22,Shopping,1999.18,UPI,Shoes
+2026-10-24,Food & Dining,390.13,UPI,Swiggy order
+2026-10-25,Food & Dining,337.0,Debit Card,Coffee
+2026-10-27,Food & Dining,122.89,Net Banking,Swiggy order
+2026-10-28,Food & Dining,266.6,Cash,Swiggy order
+2026-10-28,Groceries,200.53,Net Banking,Supermarket
+2026-10-29,Transport,78.16,UPI,Bus pass
+2026-10-29,Groceries,833.48,UPI,Vegetables
+2026-10-30,Food & Dining,267.44,UPI,Swiggy order
+2026-10-31,Education,577.94,UPI,Stationery
+2026-10-31,Food & Dining,369.84,Cash,Lunch
+2026-10-31,Shopping,766.3,Net Banking,Gadget accessory
+2026-11-01,Rent,12000.0,Net Banking,Monthly rent
+2026-11-01,Bills & Utilities,304.49,UPI,Water bill
+2026-11-01,Groceries,221.86,Cash,Supermarket
+2026-11-02,Food & Dining,343.21,UPI,Dinner out
+2026-11-03,Bills & Utilities,338.49,UPI,Water bill
+2026-11-04,Food & Dining,408.07,Credit Card,Dinner out
+2026-11-04,Transport,204.8,UPI,Bus pass
+2026-11-05,Bills & Utilities,1747.54,UPI,Electricity bill
+2026-11-06,Transport,221.54,Cash,Cab ride
+2026-11-07,Food & Dining,231.62,UPI,Swiggy order
+2026-11-07,Groceries,633.99,Credit Card,Milk and bread
+2026-11-10,Bills & Utilities,699.0,Debit Card,Broadband bill
+2026-11-11,Transport,56.22,UPI,Cab ride
+2026-11-11,Groceries,326.82,Credit Card,Monthly staples
+2026-11-13,Transport,91.43,Cash,Bus pass
+2026-11-13,Food & Dining,440.69,UPI,Coffee
+2026-11-15,Education,1295.58,UPI,Exam fee
+2026-11-15,Transport,157.15,Cash,Bus pass
+2026-11-15,Food & Dining,415.94,Net Banking,Dinner out
+2026-07-14,  food & dining ,240.0,upi,Lunch with friends
+2026-08-03,GROCERIES,612.5,CASH,Supermarket
+2026-09-09,travel,180.0,gpay,Auto ride
+2026-10-02,Shopping,999.0,Credit Card,
+2026-10-11,Food & Dining,abc,UPI,Typing mistake
+not a date,Transport,120.0,Cash,Broken date
+2026-10-20,Entertainment,-500.0,UPI,Negative amount
+2026-08-10,Food & Dining,336.86,Net Banking,Zomato order
+2026-07-01,Rent,12000.0,Net Banking,Monthly rent
+2026-08-24,Groceries,580.67,UPI,Milk and bread

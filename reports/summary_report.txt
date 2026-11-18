@@ -1,0 +1,75 @@
+==============================================================
+PERSONAL EXPENSE TRACKER - SUMMARY REPORT
+==============================================================
+Generated on : 2026-11-18 07:17
+Data period  : 2026-06-01 to 2026-11-15 (168 days)
+
+DATA CLEANING
+  Rows loaded                     : 230
+  Invalid rows removed            : 3
+  Category values fixed           : 3
+  Missing descriptions filled     : 1
+  Duplicates removed              : 3
+  Rows after cleaning             : 224
+
+KEY NUMBERS
+  Total spending         : Rs. 178,291.07
+  Number of transactions : 224
+  Average transaction    : Rs. 795.94
+  Average daily spending : Rs. 1,061.26
+  Highest category       : Rent (Rs. 72,000.00)
+  Biggest single expense : Rs. 12,000.00 (Monthly rent, 2026-06-01)
+  Busiest spending day   : 2026-08-01 (Rs. 13,007.34)
+
+SPENDING BY CATEGORY
+  Rent                 Rs.  72,000.00    40.4%
+  Groceries            Rs.  22,962.95    12.9%
+  Shopping             Rs.  21,671.58    12.2%
+  Bills & Utilities    Rs.  18,390.59    10.3%
+  Food & Dining        Rs.  17,998.02    10.1%
+  Health               Rs.   8,882.02     5.0%
+  Education            Rs.   8,737.92     4.9%
+  Transport            Rs.   4,891.20     2.7%
+  Entertainment        Rs.   2,756.79     1.6%
+
+SPENDING BY PAYMENT METHOD
+  Net Banking          Rs.  79,383.80    44.5%
+  UPI                  Rs.  60,863.25    34.1%
+  Credit Card          Rs.  15,549.17     8.7%
+  Cash                 Rs.  12,676.75     7.1%
+  Debit Card           Rs.   9,818.10     5.5%
+
+MONTHLY SUMMARY
+  2026-06  spent Rs.  26,193.75   saved Rs. 8,806.25 (25.2%)
+  2026-07  spent Rs.  30,977.61   saved Rs. 4,022.39 (11.5%)
+  2026-08  spent Rs.  35,209.28   saved Rs. -209.28 (-0.6%)
+  2026-09  spent Rs.  34,230.35   saved Rs. 769.65 (2.2%)
+  2026-10  spent Rs.  31,541.64   saved Rs. 3,458.36 (9.9%)
+  2026-11  spent Rs.  20,138.44   partial month (15 days of data)
+
+BUDGET ALERTS
+  2026-06  Bills & Utilities  spent Rs.  3,463.28 / budget Rs.  3,000.00  (over by Rs. 463.28)
+  2026-06  Entertainment      spent Rs.  1,565.12 / budget Rs.  1,500.00  (over by Rs. 65.12)
+  2026-07  Shopping           spent Rs.  6,519.14 / budget Rs.  3,000.00  (over by Rs. 3,519.14)
+  2026-08  Groceries          spent Rs.  8,098.46 / budget Rs.  5,000.00  (over by Rs. 3,098.46)
+  2026-08  Food & Dining      spent Rs.  4,347.64 / budget Rs.  3,500.00  (over by Rs. 847.64)
+  2026-08  Education          spent Rs.  2,188.93 / budget Rs.  1,500.00  (over by Rs. 688.93)
+  2026-08  Bills & Utilities  spent Rs.  3,591.84 / budget Rs.  3,000.00  (over by Rs. 591.84)
+  2026-09  Shopping           spent Rs.  6,709.35 / budget Rs.  3,000.00  (over by Rs. 3,709.35)
+  2026-09  Education          spent Rs.  2,783.54 / budget Rs.  1,500.00  (over by Rs. 1,283.54)
+  2026-09  Health             spent Rs.  2,419.03 / budget Rs.  1,500.00  (over by Rs. 919.03)
+  2026-09  Bills & Utilities  spent Rs.  3,201.25 / budget Rs.  3,000.00  (over by Rs. 201.25)
+  2026-10  Health             spent Rs.  4,499.66 / budget Rs.  1,500.00  (over by Rs. 2,999.66)
+  2026-10  Shopping           spent Rs.  3,764.48 / budget Rs.  3,000.00  (over by Rs. 764.48)
+  2026-10  Food & Dining      spent Rs.  4,007.96 / budget Rs.  3,500.00  (over by Rs. 507.96)
+  2026-11  Bills & Utilities  spent Rs.  3,089.52 / budget Rs.  3,000.00  (over by Rs. 89.52)
+
+INSIGHTS
+  - Rent is the biggest expense: Rs. 72,000 (40.4% of all spending).
+  - Ignoring fixed rent, the biggest flexible spend is Groceries at Rs. 22,963.
+  - Weekends cost more: Rs. 1,316 per day versus Rs. 959 on weekdays (37% higher).
+  - 15 category-month(s) went over budget. The largest overspend was Shopping in 2026-09 by Rs. 3,709.
+  - Best savings month: 2026-06 (Rs. 8,806 saved, 25.2% of income).
+
+Note: all data in this project is synthetic and for learning only.
+==============================================================
